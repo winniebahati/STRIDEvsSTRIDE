@@ -1,6 +1,5 @@
-# STRIDEvsSTRIDE
-# The role of Data Flow Diagrams in validating identified security threats- Replication package
-This repository contains the data used to execute a control experiement to measure the role of a data flow diagram in validating security threats. The experiement was conducted in two universities, in the Netherlands and China.
+# STRIDEvsSTRIDE- Replication package
+This repository contains the data used to execute a replication of a control experiement to measure and compare the performance indicators (productivity and precision) of two STRIDE variants (per-element and per-interaction).
 
 ### General overview
 Several steps were followed in it's execution. 
@@ -16,11 +15,10 @@ From the list of threats, the participants were required to identify/choose the 
 
 ### Available material for replication
 To aide in the replication, we have made available the following materials;
-1. Scenario descriptions, with a sequence diagram and a data flow diagram
-2. List of threats, one from the Kubernetes scenario and one from the GitHub scenario
-3. Sample entry questionnaire
-4. Sample participants report and exit questionnaire
-5. python notebook
+1. Case description- homesys
+2. Snmple DFD from each treatment group (per-element and per-interaction)
+3. Sample CSV templete
+4. Python notebook
 
 ## How to cite us
 To be updated
