@@ -1,0 +1,16 @@
+ThreatID,ElementName,ElementType,Category,Description,Assumption
+1,External Entity X,External Entity,Repudiation,…,The integrity of data coming from External Entity X is trusted.
+2,External Entity X,External Entity,Repudiation
+3,Process X,Process,Repudiation
+4,Process X,Process,Repudiation
+5,Process X,Process,Repudiation
+6,Process X,Process,Denial of Service
+7,Process X,Process,Elevation of Privilege
+8,Process X,Process,Elevation of Privilege
+9,Data Flow X,Data Flow,Denial of Service
+10,Data Flow X,Data Flow,Information Disclosure
+11,Data Flow X,Data Flow,Tampering
+12,Data Flow X,Data Flow,Tampering
+13,Data Flow X,Data Flow,Tampering
+14,Data Flow X,Data Flow,Tampering
+15,Data Flow X,Data Flow,Tampering
